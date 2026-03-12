@@ -1,1 +1,1 @@
-{"meta":{"mapName":"Floor5","permResident":0},"triangles":[{"id":"66e63ce4-522d-4785-b10d-dfc29a44df08","x":654,"y":445,"label":"","color":"#4a90e2","description":""},{"id":"f3060a61-132e-4c91-96c3-468b132108f0","x":758,"y":357,"label":"","color":"#4a90e2","description":""}],"lines":[{"id":"3da1de7b-ccf9-4a15-9bb9-0c25ab81c2d5","fromId":"66e63ce4-522d-4785-b10d-dfc29a44df08","toId":"f3060a61-132e-4c91-96c3-468b132108f0","label":"","style":"solid","weight":2,"cost":0,"constraint":""}]}
+{"meta":{"mapName":"Floor5","permResident":120},"triangles":[],"lines":[]}
